@@ -4,3 +4,4 @@
 *4-lastlines displays the last 10 lines of /etc/passwd
 *5-firstlines displays the first 10 lines of /etc/passwd
 *7-file creates a file name \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with text Best school
+*8-cwd_state  writes into the file ls_cwd_content the result of the command ls -la
